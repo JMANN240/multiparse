@@ -1,0 +1,10 @@
+[package]
+name = "multiparse"
+description = "Automatically parse multiple radices"
+license = "MIT OR Apache-2.0"
+version = "0.1.6"
+edition = "2024"
+repository = "https://github.com/JMANN240/multiparse"
+
+[dependencies]
+num-traits = "0.2.19"
